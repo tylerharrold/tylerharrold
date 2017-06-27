@@ -1,0 +1,33 @@
+.jumbotron{
+	background-image: url("./imgs/jumbotron2.png");
+	background-size: cover;
+	text-shadow: 2px 2px #000000;
+}
+
+.jumbotron h1{
+	padding-top: .5em;
+	color: white;
+}
+
+.jumbotron p{
+	color: white;
+}
+
+.row h4{
+	text-align: center;
+}
+
+.row img{
+	margin: auto;
+}
+
+.row p{
+	text-align: center;
+	padding-top: .5em;
+}
+
+.row a{
+	color: inherit;
+}
+
+
