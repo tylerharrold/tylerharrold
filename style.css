@@ -1,3 +1,6 @@
+body{
+	background-color: #f2f2f2;
+}
 .jumbotron{
 	background-image: url("./imgs/jumbotron2.png");
 	background-size: cover;
@@ -30,4 +33,6 @@
 	color: inherit;
 }
 
-
+.link:hover{
+	color: #206ce8;
+}
